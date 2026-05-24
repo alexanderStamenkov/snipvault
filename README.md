@@ -15,3 +15,4 @@ TypeScript · Vanilla JS · HTML · CSS
 ## Run locally
 
 npx serve .
+https://snipvault-as.netlify.app/
